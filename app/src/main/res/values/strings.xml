@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MiLista</string>
+    <string name="name_list">Nombre de la lista</string>
+    <string name="add_budget">Agrega presupuesto</string>
+    <string name="add_date">Agrega fecha</string>
+    <string name="list_category">Agrega los productos por categoría</string>
+    <string name="add_product">Agrega el producto deseado</string>
+    <string name="button_save">Guardar</string>
+    <string name="button_add">Agregar</string>
 </resources>
